@@ -45,37 +45,3 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 11. Contact Us
 If you have questions about this Privacy Policy, contact us at:
 📧 support@barrasoft.com
-
-# QuikCad Terms of Use
-Last updated: January 16, 2026
-1. Acceptance of Terms
-By downloading or using QuikCad, you agree to these Terms of Use. If you do not agree, do not use the app.
-2. License
-We grant you a limited, non-exclusive, non-transferable, revocable license to use QuikCad for personal or professional use in accordance with these terms.
-3. Subscriptions & Access
-QuikCad requires an active subscription after any applicable free trial
-Subscriptions renew automatically unless canceled through Apple
-If your subscription expires, access to the app may be restricted
-4. Acceptable Use
-You agree not to:
-Reverse engineer, modify, or distribute the app
-Use the app for unlawful purposes
-Attempt to bypass payment or access controls
-5. Intellectual Property
-All content, features, and functionality in QuikCad are owned by the developer and are protected by copyright and intellectual property laws.
-6. User Content
-You retain ownership of any designs or content you create using the app.
-We do not claim ownership of your work.
-7. Termination
-We reserve the right to suspend or terminate access to the app if these terms are violated.
-8. Disclaimer
-QuikCad is provided “as is” and “as available” without warranties of any kind. We do not guarantee the app will be error-free or uninterrupted.
-9. Limitation of Liability
-To the maximum extent permitted by law, we are not liable for any damages resulting from the use or inability to use the app.
-10. Governing Law
-These Terms are governed by the laws of Ontario, Canada, without regard to conflict of law principles.
-11. Changes to Terms
-We may update these Terms at any time. Continued use of the app means you accept the updated terms.
-12. Contact Information
-For questions about these Terms, contact:
-📧 support@barrasoft.com
