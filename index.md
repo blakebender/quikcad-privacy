@@ -4,16 +4,14 @@ _Last updated: January 16, 2026_
 Welcome to QuikCad (“we,” “our,” or “us”). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect information when you use the QuikCad app.
 By using the app, you agree to the collection and use of information in accordance with this policy.
 2. Information We Collect
-a. Personal Information
-We may collect limited personal information, including:
-Email address, only if you voluntarily provide it (such as when contacting support or adding it to your account)
-Purchase and subscription status, which is managed by Apple
-b. Usage Data
-We may collect anonymous usage data such as:
-App features used
-Crash reports and performance data
-Device type and operating system version
-This data is used solely to improve app performance and user experience.
+Account Information
+When you create a QuikCad account, we may collect and store information such as your email address, account identifier, account type, account status, and subscription information.
+Business Account Information
+If you create or join a QuikCad Business account, we may collect and store information including your business name, business identifier, company code, membership information, seat limit, and subscription type.
+Authentication Information
+QuikCad uses Firebase Authentication, provided by Google, to manage user accounts and sign-in. Authentication information may include your email address, authentication identifiers, and information necessary to securely authenticate your account.
+Usage and Technical Information
+We may collect technical or diagnostic information such as device type, operating system version, crash reports, and app performance information.
 3. Subscriptions & Payments
 All payments and subscriptions are processed securely through Apple’s App Store.
 We do not collect or store your credit card or payment information.
@@ -28,11 +26,10 @@ Verify subscription access
 6. Data Storage & Security
 We take reasonable measures to protect your information. However, no method of electronic storage is completely secure, and we cannot guarantee absolute security.
 7. Third-Party Services
-We may use trusted third-party services, including Apple and analytics or crash-reporting providers, to:
-Validate subscriptions
-Analyze app performance
-Improve reliability
-These services are permitted to use data only to perform their specific functions.
+QuikCad uses third-party services to operate certain features of the app. These may include:
+Google Firebase — used for account authentication, cloud database services, and account/business information storage.
+Apple — used for App Store purchases, subscriptions, and related services.
+These providers may process information as necessary to provide their services and are subject to their own privacy policies and data-processing terms.
 8. Children’s Privacy
 QuikCad is not intended for children under the age of 13. We do not knowingly collect personal data from children.
 9. Your Rights
