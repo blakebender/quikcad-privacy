@@ -1,5 +1,5 @@
 # QuikCad Privacy Policy
-_Last updated: January 16, 2026_
+_Last updated: October 1, 2026_
 1. Introduction
 Welcome to QuikCad (“we,” “our,” or “us”). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect information when you use the QuikCad app.
 By using the app, you agree to the collection and use of information in accordance with this policy.
