@@ -261,13 +261,15 @@ We may need to verify your identity before completing certain requests.
 
 ## 13. Children's Privacy
 
-QuikCad is not intended for children under the age of 13.
+QuikCad is rated for users age 4 and older.
 
-We do not knowingly collect personal information from children under 13.
+QuikCad does not knowingly collect more personal information from children than is necessary to provide the app's account, subscription, and project features.
 
-If we become aware that personal information from a child under 13 has been collected without appropriate authorization, we will take reasonable steps to remove that information.
+If a parent or guardian believes that a child has provided personal information to QuikCad and would like that information reviewed or deleted, they may contact us at:
 
----
+**support@barrasoft.com**
+
+We will take reasonable steps to respond to valid privacy or deletion requests.
 
 ## 14. International Users
 
